@@ -1,2 +1,2 @@
 # Lab Exercise 1
- first lab in web
+ Laboratory Exercise #1: Personal Portfolio
